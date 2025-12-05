@@ -28,7 +28,7 @@ This project implements a clinical trials search engine that allows users to sea
 
 ### Installation
 
-1. Clone or download this project.
+1. Clone this project.
 
 2. Install dependencies:
    ```bash
@@ -51,7 +51,7 @@ cd src
 python fetch_data.py
 ```
 
-This fetches 100 recent clinical trials and saves them to `data/sample_trials.csv`.
+This fetches 100 recent clinical trials and saves them to `data/sample_trials.csv`. NOTE: You do not have to do this step.
 
 ### Running the Web App
 
