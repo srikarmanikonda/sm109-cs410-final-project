@@ -1,0 +1,6 @@
+pandas
+rank_bm25
+streamlit
+numpy
+nltk
+requests
